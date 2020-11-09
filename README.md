@@ -1,4 +1,4 @@
-### 我是老狄shrekshao 👋
+### 我是老狄shrekshao 👋 A mediocre programmer...
 
 [![shrek's github stats](https://github-readme-stats.vercel.app/api?username=shrekshao)](https://github.com/anuraghazra/github-readme-stats)
 
